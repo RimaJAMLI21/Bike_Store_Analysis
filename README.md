@@ -14,4 +14,5 @@ https://public.tableau.com/app/profile/rim.jamli/viz/BikeStoreDashboard_16852879
 
 
 
-![]bikedash1.png
+[bikedash1.png](https://github.com/RimaJAMLI21/Bike_Store_Analysis/blob/main/bikedash1.png)
+![bikedash2.png](https://github.com/RimaJAMLI21/Bike_Store_Analysis/blob/main/bikedash2.png)
